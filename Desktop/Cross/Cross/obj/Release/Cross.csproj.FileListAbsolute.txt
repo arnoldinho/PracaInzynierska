@@ -1,0 +1,13 @@
+D:\INŻYNIERKA\Cross\Cross\bin\Release\Cross.exe.config
+D:\INŻYNIERKA\Cross\Cross\bin\Release\Cross.exe.manifest
+D:\INŻYNIERKA\Cross\Cross\bin\Release\Cross.application
+D:\INŻYNIERKA\Cross\Cross\bin\Release\Cross.exe
+D:\INŻYNIERKA\Cross\Cross\bin\Release\Cross.pdb
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.csprojResolveAssemblyReference.cache
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.Form1.resources
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.Properties.Resources.resources
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.csproj.GenerateResource.Cache
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.exe.manifest
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.application
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.exe
+D:\INŻYNIERKA\Cross\Cross\obj\Release\Cross.pdb
